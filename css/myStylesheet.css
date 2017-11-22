@@ -12,3 +12,10 @@ nav {
 .waves-effect {
     background-color: green;
 }
+.card-image {
+    border-style: solid;
+    border-color: white;
+}
+.brand-logo {
+    color: black;
+}
