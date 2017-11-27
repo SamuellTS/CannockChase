@@ -29,3 +29,6 @@ main {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+.form-control {
+    color: black;
+}
